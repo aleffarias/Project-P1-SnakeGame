@@ -1,7 +1,6 @@
 # Snake 2D
-Projeto referente a matéria Programação 1 (P1).
 
-# Sobre o jogo
+## Sobre o jogo
 
 ![Preview-Screens](https://github.com/aleffarias/SnakeGame/blob/master/HomeScreen.png)
 
@@ -15,7 +14,7 @@ Para saber mais, acesse o [blog](https://snake2d.blogspot.com/2018/05/conhecendo
 </p>
 
 
-# Instalação
+## Instalação
 
 Siga as instruções abaixo para fazer a instalação do Snake 2D no windows:
 
